@@ -1,3 +1,4 @@
+//return the position of two numbers when user input target result
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
